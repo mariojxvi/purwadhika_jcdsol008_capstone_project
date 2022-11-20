@@ -1,0 +1,37 @@
+[
+   {
+      "id": 1,
+      "nama": "Mario Jaya",
+      "no_telefon": "080738079635",
+      "email": "marioxxx@mail.com",
+      "alamat": "Kudus,Indonesia"
+   },
+   {
+      "id": 2,
+      "nama": "Paul Atreides",
+      "no_telefon": "080775798859",
+      "email": "paul_atreides@arrakis.com",
+      "alamat": "Arrakis"
+   },
+   {
+      "id": 3,
+      "nama": "Luna Lovewood",
+      "no_telefon": "089765432190",
+      "email": "luna_lovewood@hogwarts.com",
+      "alamat": "Hogwarts"
+   },
+   {
+      "id": 5,
+      "nama": "Kevin Archimedes",
+      "no_telefon": "080433866999",
+      "email": "kkk@archimedes.com",
+      "alamat": "Bantul"
+   },
+   {
+      "id": 4,
+      "nama": "David Beckham",
+      "no_telefon": "080777555666",
+      "email": "beckham@mail.com",
+      "alamat": "UK"
+   }
+]
