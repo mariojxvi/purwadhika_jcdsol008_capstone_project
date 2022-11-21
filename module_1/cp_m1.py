@@ -171,7 +171,7 @@ def create():
             id = ask_for_id()
             if check_for_duplicate(id) == True:
                 print(f'Kontak id {id} sudah digunakan')
-                break
+                continue
             nama = ask_for_name()
             no_telefon = ask_for_phone_number()
             email = ask_for_email()
@@ -326,8 +326,7 @@ def update():
             table = generate_table([temp_contact])
             console.print(table)
             confirm = ask_form_confirmation("memperbaharui")
-            if confirm:
-            
+            if confirm:  
                 for target_index, contact in enumerate(DATA_CONTACTS):
                     if contact['id'] == id:
                         break

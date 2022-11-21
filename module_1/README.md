@@ -15,7 +15,7 @@ conda install -c conda-forge rich
 ```
 
 ## Usage
-If using conda or virtual enviroment, you should activate the enviroment first where you have installed the `rich` package:
+If you are using conda or virtual enviroment, you should activate the enviroment first where you have installed the `rich` package:
 ```
 # e.g with conda
 conda activate <env_name>
